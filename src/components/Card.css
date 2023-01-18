@@ -1,0 +1,10 @@
+
+.card_container{
+    min-width: 20vw;
+    display: flex;
+    
+}
+
+.card_container img{
+    width: 15vw;
+}
