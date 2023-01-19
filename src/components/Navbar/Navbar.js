@@ -14,7 +14,7 @@ const Navbar = (props) => {
       <a className="navbar-brand">Maria Rosa Store</a>
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <NavLink className={'nav-link active'} aria-current="page" to='/'>Home</NavLink>
+          <NavLink className={'nav-link active'} aria-current="page" to='/'>Inicio</NavLink>
         </li>
         <li className="nav-item">
         <NavLink className={'nav-link'} to='/categoria/Conjunto Egresado'>Conjunto Egresado</NavLink>

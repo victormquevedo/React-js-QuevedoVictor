@@ -11,7 +11,7 @@ const ItemDetailContainer = () => {
       nombre: "Conjunto De Egresado De Secundaria",
       descripcion: 
       "Un conjunto hecho para usar en egresados de secundaria tanto para mujer como hombre",
-          precio: 3349,
+          precio: 2500,
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ const ItemDetailContainer = () => {
           nombre: "Conjunto De Egresado De Jardin",
           descripcion:
             "Un conjunto hecho para usar cuando los niños de jardin se egresan y pasan a primaria",
-          precio: 2149,
+          precio: 2000,
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ const ItemDetailContainer = () => {
           nombre: "Conjunto De Egresado De Universitario",
           descripcion:
             "Un conjunto para usar cuando los alumnos de universidades se egresan y quieran usarlo en su entrega de diplomas",
-          precio: 1099,
+          precio: 3500,
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ const ItemDetailContainer = () => {
             "Tazas Sublimadas",
           descripcion:
             "Unas tazas sublimadas a gusto del cliente para poder usar tanto en casa, oficina, regalo, etc.",
-          precio: 1399,
+          precio: 900,
     },
     {
       id: 5,
@@ -48,7 +48,7 @@ const ItemDetailContainer = () => {
           nombre: "Indumentaria Sublimadas",
           descripcion:
             "Indumentaria sublimada a gusto del cliente para regalos, uso propio, empresa, etc.",
-          precio: 3599,
+          precio: 1800,
     },
     {
       id: 6,
@@ -57,7 +57,7 @@ const ItemDetailContainer = () => {
           nombre: "Gorras Sublimadas",
           descripcion:
             "Gorras Sublimadas a gusto del cliente para regalos, uso propio, empresa, etc.",
-          precio: 4310,
+          precio: 1400,
     },
     {
       id: 7,
@@ -67,7 +67,7 @@ const ItemDetailContainer = () => {
         "Virrete x Separado",
       descripcion:
         "Para las personas que solo le interesa el virrete por separado y usar para la celebracion tradicional de entrega de diplomas",
-      precio: 1849,
+      precio: 500,
     },
     {
       id: 8,
@@ -76,7 +76,7 @@ const ItemDetailContainer = () => {
           nombre: "Guardapolvos Jardin, Primaria y Secundaria ",
           descripcion:
             "Guardapolvos hecho a medida tanto para alumnos de jardin, primaria y secundaria (del color que prefiera el cliente)",
-          precio: 689,
+          precio: 2900,
     },
     {
       id: 9,
@@ -85,7 +85,7 @@ const ItemDetailContainer = () => {
           nombre: "Retratos e Impresion De Fotos",
           descripcion:
             "Retratos para mesitas de luz e impresion de fotos a gusto del cliente, tanto para recuerdos de escuela, trabajo, familia y demas",
-          precio: 549,
+          precio: 700,
     },
   ];
 
