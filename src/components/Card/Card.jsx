@@ -9,7 +9,7 @@ const Card = (props) => {
     <div className="card-body">
         <h4 className="card-title">{nombre}</h4>
         <p className="card-text">{descripcion}</p>
-        <h5 className="card-text">$ {precio} USD</h5>
+        <h5 className="card-text">$ {precio} ARS</h5>
         <button id={id} className="btn btn-primary" style={{ margin: "5px" }}>Comprar</button>
         <Link to={`/item/detail/${id}`}>
         <button id={id} className="btn btn-primary" style={{ margin: "5px" }}>Mas Info</button>

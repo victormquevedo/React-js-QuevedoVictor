@@ -11,25 +11,25 @@ const Navbar = (props) => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <a className="navbar-brand">⚡Lightning Store⚡</a>
+      <a className="navbar-brand">Maria Rosa Store</a>
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
           <NavLink className={'nav-link active'} aria-current="page" to='/'>Home</NavLink>
         </li>
         <li className="nav-item">
-        <NavLink className={'nav-link'} to='/categoria/amplificadores'>Amplificadores</NavLink>
+        <NavLink className={'nav-link'} to='/categoria/Conjunto Egresado'>Conjunto Egresado</NavLink>
         </li>
         <li className="nav-item">
-        <NavLink className={'nav-link'} to='categoria/guitarras'>Guitarras</NavLink>
+        <NavLink className={'nav-link'} to='categoria/Articulos De Sublimacion'>Articulos De Sublimacion</NavLink>
         </li>
         <li className="nav-item">
-        <NavLink className={'nav-link'} to='categoria/efectos'>Efectos</NavLink>
+        <NavLink className={'nav-link'} to='categoria/Virretes'>Virretes</NavLink>
         </li>
         <li className="nav-item">
-        <NavLink className={'nav-link'} to='categoria/sintetizadores'>Sintetizadores</NavLink>
+        <NavLink className={'nav-link'} to='categoria/Guardapolvos'>Guardapolvos</NavLink>
         </li>
         <li className="nav-item">
-        <NavLink className={'nav-link'} to='categoria/interfaces'>Interfaces</NavLink>
+        <NavLink className={'nav-link'} to='categoria/Retratos Recuerdos'>Retratos Recuerdos</NavLink>
         </li>
       </ul>
       <ul className="navbar-nav mb-2 mb-lg-0">
